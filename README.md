@@ -1,1 +1,2 @@
-hi
+higit remote -v
+
