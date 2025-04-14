@@ -5,4 +5,28 @@ jobs:
         runs-on: ubuntu-latest
         steps:
           - name: Checkout code
-            run: echo "Checking out code"
+            run: echo "Checking out code buddy it is done"
+          - name: Run tests
+            run: echo "Running tests buddy it is done"
+          - name: Build
+            run: echo "Building the project buddy it is done"
+          - name: Deploy
+            run: echo "Deploying the project buddy it is done"
+          - name: Notify
+            run: echo "Notifying the team buddy it is done"
+          - name: Cleanup
+            run: echo "Cleaning up buddy it is done"
+          - name: Finalize
+            run: echo "Finalizing the workflow buddy it is done"
+          - name: Complete
+            run: echo "Completing the workflow buddy it is done"
+          - name: Finish
+            run: echo "Finishing the workflow buddy it is done"
+          - name: Wrap up
+            run: echo "Wrapping up the workflow buddy it is done"
+          - name: Close
+            run: echo "Closing the workflow buddy it is done"
+          - name: End
+            run: echo "Ending the workflow buddy it is done"
+          - name: Summary
+            run: echo "Summarizing the workflow buddy it is done"
